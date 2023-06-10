@@ -738,6 +738,10 @@ margin-bottom: 8px;
     transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
+.modal-textarea:focus{
+    border-color: var(--link-color);
+}
+
 .input{
     outline: transparent;
     transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
