@@ -721,7 +721,6 @@ footer {
 
 .input-wrap{
     position: relative;
-  
   margin-bottom: 8px;
 }
 
@@ -766,7 +765,6 @@ footer {
 }
 
 .input-label-wrap{
-   
     margin-bottom: 8px;
 }
 
@@ -787,15 +785,7 @@ footer {
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1), border 250ms cubic-bezier(0.4, 0, 0.2, 1), fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .modal-policy{
-    display: flex;
-    align-items: center;
     margin-bottom: 24px;
-}
-
-.modal-label-policy{
-    display: flex;
-    align-items: center;
-
 }
 
 .input-policy:checked + .modal-label-policy .modal-customs-icon{
