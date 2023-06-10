@@ -731,8 +731,8 @@ margin-bottom: 8px;
     font-size: 12px;
     line-height: 1.17;
     letter-spacing: 0.04em;
-    color: rgba(46, 47, 66, 0.4);
     background-color: transparent;
+    color: rgba(46, 47, 66, 0.4);
 }
 
 .input{
@@ -756,7 +756,7 @@ margin-bottom: 8px;
 .input-label-wrap{
     display: flex;
     flex-direction: column;
-    margin-bottom: 16px;
+    margin-bottom: 8px;
 }
 
 .modal-customs-icon{
