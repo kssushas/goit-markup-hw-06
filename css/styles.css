@@ -718,8 +718,7 @@ footer {
 .input-wrap{
     position: relative;
   display: flex;
-
-margin-bottom: 8px;
+  margin-bottom: 8px;
 }
 
 .modal-textarea{
@@ -763,8 +762,7 @@ margin-bottom: 8px;
 }
 
 .input-label-wrap{
-    display: flex;
-    flex-direction: column;
+   
     margin-bottom: 8px;
 }
 
