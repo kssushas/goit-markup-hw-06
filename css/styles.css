@@ -715,9 +715,13 @@ footer {
     margin-bottom: 4px;
 }
 
+.modal-label{
+    display: block;
+}
+
 .input-wrap{
     position: relative;
-  display: flex;
+  
   margin-bottom: 8px;
 }
 
