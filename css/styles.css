@@ -637,7 +637,7 @@ footer {
 .is-hidden{
     visibility: hidden;
     opacity: 0;
-    pointer-events: none;
+       pointer-events: none;
 }
 .modal{
     background-color: #FCFCFC;
@@ -742,6 +742,7 @@ footer {
 
 .modal-textarea:focus{
     border-color: var(--link-color);
+    color:var(--header-color);
 }
 
 .input{
